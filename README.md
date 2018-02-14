@@ -1,0 +1,3 @@
+Analyze Survey Data
+
+This project introduced me to the data analysis process and I also went through the process of calculating summary statistics and building visual methods of spreadsheet data to find interesting information about Udacity students - students just like me. The goal is that not only perform analysis, but also communicate the results in a way that is clear and compelling. I analyzed a real dataset about current Udacity students across a number of programs, so it isn't perfect. It is a little messy (some things are input incorrectly, others are missing). I used spreadsheets to make my analysis easier.
